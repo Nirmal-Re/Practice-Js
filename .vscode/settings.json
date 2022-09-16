@@ -1,0 +1,11 @@
+{
+  "sshfs.configs": [
+    {
+      "name": "royalsurrey",
+      "host": "10.161.128.46",
+      "root": "/var/www/html/nbhandari/desktop",
+      "username": "nbhandari",
+      "password": "password1"
+    }
+  ]
+}
